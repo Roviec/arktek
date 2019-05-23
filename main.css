@@ -1,0 +1,23 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  background-color: rgba(8, 8, 8, 0.842);
+  text: #949393
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: rgb(49, 6, 6);
+  font-weight: bold;
+}
+
+#somos {
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+  background: url(../img/banner-somos.png);
+}
+
+#contact {
+  background-color: rgba(8, 8, 8, 0.842);
+  
+}
