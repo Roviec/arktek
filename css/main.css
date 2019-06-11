@@ -1,1 +1,167 @@
 
+body {
+  font-family: 'arial';
+  background-color: rgba(92, 91, 91, 0.842);
+  text: #e4e3e3;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif
+ 
+}
+.navbar {
+  background-color: rgba(34, 33, 33, 0.842);
+  box-shadow: 2px 2px 2px #6e6e6e;
+  opacity: 10;
+}
+
+.navbar .nav-item .nav-link {
+  color: rgb(184, 181, 181);
+}
+
+.navbar .navbar-brand {
+  color: rgb(114, 111, 111);
+}
+
+#contenido-somos, {
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+  
+}
+#aparte, #proyectos, {
+  padding: 20px 0 20px 0;
+  text-align:center;
+  margin-top: 20px;
+  background: #232526;  /* fallback for old browsers */
+  /*background: -webkit-linear-gradient(to left, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+  /*background: linear-gradient(to left, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.teamclientes{
+  background: #232526;  /* fallback for old browsers */
+ /* background: -webkit-linear-gradient(to left, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+ /* background: linear-gradient(to left, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+}
+
+
+.main-header {
+  position: relative;
+  background:url(file:///C:/Users/Maximo/Desktop/fintasport/img/finta3.jpg);
+  background-size: cover;
+  min-height: 600px;
+}
+
+.background-overlay {
+  background: rgba(00, 00, 000,.2);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#somos{
+  position: relative;
+  background:url(file:///C:/Users/Maximo/Desktop/fintasport/img/fondo-bandera.png);
+  background-size: cover;
+  min-height: 600px;
+}
+
+#portafolio{
+  background: #7f7f80;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#noticias{
+  background:  #999898;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+#contacto{
+  background-image: linear-gradient(to bottom, #3b3b3b 0%, #2d2e2e 100%);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#copyrigth {
+  background: rgb(0, 0, 0);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/*estilos de la galería*/
+
+  
+h1{
+color: white;
+text-align: center;
+}
+
+.galeria{
+width: 90%;  
+margin: auto;
+list-style: none;
+padding: 20%;
+box-sizing: border-box;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+
+
+}
+
+.paleria li{
+margin: 5px;
+}
+
+.galeria img{
+width: 150px;
+height: 100px;
+}
+
+/*estilos del modal*/
+
+.modal{
+position: fixed;
+background: rgba(0, 0, 0, 0.8);
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+.modal h3{
+  color: aliceblue;
+  font-size: 30px;
+  text-align: center;
+  margin: 15px 0;
+}
+.imagen{
+width: 100%;
+height: 50%;
+
+}
+.imagen a{
+
+color: aliceblue;
+font-size: 40px;
+text-decoration: none
+ 
+}
+
+
+
+
+
