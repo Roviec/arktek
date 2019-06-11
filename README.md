@@ -1,3 +1,3 @@
 # arktek
 Sitio Web Arktek
-Boceto_2
+Usando HTML, CCS, Boostrap 4 y otros.
